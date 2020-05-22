@@ -1,0 +1,20 @@
+E:\projetos\ProjetoPessoaTratamentoExcecao-master\ProjetoPessoa\bin\Debug\ProjetoPessoa.exe.config
+E:\projetos\ProjetoPessoaTratamentoExcecao-master\ProjetoPessoa\bin\Debug\ProjetoPessoa.exe
+E:\projetos\ProjetoPessoaTratamentoExcecao-master\ProjetoPessoa\bin\Debug\ProjetoPessoa.pdb
+E:\projetos\ProjetoPessoaTratamentoExcecao-master\ProjetoPessoa\obj\Debug\ProjetoPessoa.csprojAssemblyReference.cache
+E:\projetos\ProjetoPessoaTratamentoExcecao-master\ProjetoPessoa\obj\Debug\ProjetoPessoa.Form1.resources
+E:\projetos\ProjetoPessoaTratamentoExcecao-master\ProjetoPessoa\obj\Debug\ProjetoPessoa.Properties.Resources.resources
+E:\projetos\ProjetoPessoaTratamentoExcecao-master\ProjetoPessoa\obj\Debug\ProjetoPessoa.csproj.GenerateResource.cache
+E:\projetos\ProjetoPessoaTratamentoExcecao-master\ProjetoPessoa\obj\Debug\ProjetoPessoa.csproj.CoreCompileInputs.cache
+E:\projetos\ProjetoPessoaTratamentoExcecao-master\ProjetoPessoa\obj\Debug\ProjetoPessoa.exe
+E:\projetos\ProjetoPessoaTratamentoExcecao-master\ProjetoPessoa\obj\Debug\ProjetoPessoa.pdb
+E:\projetos\projeto pessoa\ProjetoPessoa\bin\Debug\ProjetoPessoa.exe.config
+E:\projetos\projeto pessoa\ProjetoPessoa\bin\Debug\ProjetoPessoa.exe
+E:\projetos\projeto pessoa\ProjetoPessoa\bin\Debug\ProjetoPessoa.pdb
+E:\projetos\projeto pessoa\ProjetoPessoa\obj\Debug\ProjetoPessoa.csprojAssemblyReference.cache
+E:\projetos\projeto pessoa\ProjetoPessoa\obj\Debug\ProjetoPessoa.Form1.resources
+E:\projetos\projeto pessoa\ProjetoPessoa\obj\Debug\ProjetoPessoa.Properties.Resources.resources
+E:\projetos\projeto pessoa\ProjetoPessoa\obj\Debug\ProjetoPessoa.csproj.GenerateResource.cache
+E:\projetos\projeto pessoa\ProjetoPessoa\obj\Debug\ProjetoPessoa.csproj.CoreCompileInputs.cache
+E:\projetos\projeto pessoa\ProjetoPessoa\obj\Debug\ProjetoPessoa.exe
+E:\projetos\projeto pessoa\ProjetoPessoa\obj\Debug\ProjetoPessoa.pdb
